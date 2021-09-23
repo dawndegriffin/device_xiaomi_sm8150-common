@@ -131,6 +131,7 @@ ro.crypto.dm_default_key.options_format.version=2
 ro.crypto.volume.metadata.method=dm-default-key
 
 # Dalvik
+dalvik.vm.dex2oat64.enabled=true
 dalvik.vm.heapgrowthlimit=256m
 dalvik.vm.heapmaxfree=8m
 dalvik.vm.heapminfree=512k
